@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+root_dirs.local.py
